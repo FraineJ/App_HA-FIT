@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886887149492",
+    "project_id": "pestdb-42d5f",
+    "storage_bucket": "pestdb-42d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886887149492:android:386a09960c899197380ce1",
+        "android_client_info": {
+          "package_name": "com.thecblock.pests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886887149492-knunno7ssq2eph910fdg6pkpadl8geh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecblock.pests",
+            "certificate_hash": "3e26ee164d6bcf203f42f4f3c696f8d26a2f78b9"
+          }
+        },
+        {
+          "client_id": "886887149492-9f96aj48lhs9noc2drqbp8badgv8279t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJsXnJg6CsUy_h_pIZc-0Goksmcy-hn58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886887149492-9f96aj48lhs9noc2drqbp8badgv8279t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
